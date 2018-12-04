@@ -1,0 +1,17 @@
+dependencies: \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Modules/RCTLayoutAnimationGroup.m \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Modules/RCTLayoutAnimationGroup.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Modules/RCTLayoutAnimation.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/boggarap/Documents/projects/rncourse/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/boggarap/Documents/projects/rncourse/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/boggarap/Documents/projects/rncourse/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h

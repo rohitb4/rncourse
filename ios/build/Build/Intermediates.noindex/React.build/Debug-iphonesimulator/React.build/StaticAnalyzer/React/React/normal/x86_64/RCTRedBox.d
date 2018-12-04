@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Modules/RCTRedBox.m \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Base/RCTErrorCustomizer.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/boggarap/Documents/projects/rncourse/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/boggarap/Documents/projects/rncourse/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/boggarap/Documents/projects/rncourse/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Base/RCTErrorInfo.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Base/RCTJSStackFrame.h \
+  /Users/boggarap/Documents/projects/rncourse/node_modules/react-native/React/Modules/RCTRedBoxExtraDataViewController.h
